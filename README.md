@@ -24,7 +24,6 @@
 
 ## Articles & Tutorials
 
-- [Testing LLMs and Prompts: A Developer's Guide](https://www.promptfoo.dev/docs/guides/llm-testing/) - Comprehensive guide to LLM testing strategies.
 - [A Survey on Evaluation of Large Language Models](https://arxiv.org/abs/2307.03109) - Academic survey of LLM evaluation methods.
 
 ---
