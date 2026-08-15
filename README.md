@@ -12,6 +12,7 @@
 
 ## LLM Evaluation Frameworks
 
+- [agent-qa](https://github.com/vostride/agent-qa) - Self-improving QA agent for natural-language web and mobile tests.
 - [DeepEval](https://github.com/confident-ai/deepeval) - Open-source LLM evaluation framework with 14+ metrics including hallucination detection.
 - [Promptfoo](https://github.com/promptfoo/promptfoo) - Test and evaluate LLM prompts with systematic comparison and CI/CD integration.
 - [Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai) - UK AI Safety Institute framework for evaluating LLM capabilities and safety.
